@@ -990,7 +990,7 @@ export default {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-60%);
+    transform: translateY(-80%);
   }
 }
 .navlist {
