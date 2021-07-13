@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { bus } from "./components/bus.js";
+// import { bus } from "./components/bus.js";?
 // import house from "./components/house.vue";
 export default {
   // components: { house },
